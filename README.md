@@ -8,8 +8,8 @@ Create a “Hello World” contract with a constructor, at least two functions, 
 - Testnets
 
 ### Objectives:
-To expose students to smart contracts on Ethereum via Solidity. 
-To expose students to basic deployment patterns.
+  - To expose students to smart contracts on Ethereum via Solidity. 
+  - To expose students to basic deployment patterns.
 
 The smart contract address is: https://rinkeby.etherscan.io/address/0x70e9c5999fc7e3f4fd8d3df56bdb012716111e61#code
 
